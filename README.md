@@ -13,9 +13,10 @@ Either use git clone, or download the files as a zip.
 * ```cd``` to wherever this local repository is.
 Open up at least two terminals, one for the server and another for a client. You can have multiple clients if preferred.
 
-*```python3 server.py``` in one terminal window.
-*```python3 client.py``` in another window.
-Follow prompts as given.
+* ```python3 server.py``` in one terminal window.
+
+* ```python3 client.py``` in another window.
+   Follow prompts as given.
 
 
 ## Limitations and Improvements
